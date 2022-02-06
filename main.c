@@ -1,4 +1,7 @@
+#include <stdio.h>
+
 int main()
 {
-    return 0;
+  printf("Hello world!\n"); // ку от Масаламента
+  return 0;
 }
